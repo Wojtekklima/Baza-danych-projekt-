@@ -16,7 +16,8 @@ It contains sample data and allows you to generate reports, e.g. on active clien
 1. Create the database and tables
 2. -- CREATE DATABASE GymDB;
 3. -- USE GymDB;
-4. then run Create_gym_database.sql
+4. Then run Create_gym_database.sql
 5. Insert sample data
 6. -- USE GymDB;
 7. Run Insert_values_to_database.sql 
+8. File SELECT_queries_database has in it examples of using the SELECT function 
